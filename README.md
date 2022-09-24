@@ -3,8 +3,8 @@
 ### - Graduando em Ciência de Dados👨🏽‍💻;
 <br>
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBzada&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br&border_radius/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBzada&layout=default&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br&border_radius/)](https://github.com/RBzada/github-readme-stats)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabarbozz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br&border_radius/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabarbozz&layout=default&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br&border_radius/)](https://github.com/rafabarbozz/github-readme-stats)
 
 ## Skills:
 
