@@ -1,5 +1,6 @@
-## Fascinated about learning new technologies, especially in the field of AI.
 ## Hello, I'm Rafael💪🏻
+## Fascinated about learning new technologies, especially in the field of AI.
+
 
 - 🔭 I’m currently an undergraduate student of Data Science and AI at the Federal University of Paraiba
 - 🤖 I’m currently Django and Machine Learning / Deep Learning
