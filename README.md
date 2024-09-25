@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently an undergraduate student of Data Science and AI at the Federal University of Paraiba
-- 🤖 I’m currently Django and Machine Learning / Deep Learning
-- 👨🏽‍💻 I’m looking to collaborate on Data Science, Data Analisis and Artificial Intelligence projects
+- 🤖 I’m currently studying about Django and Machine Learning / Deep Learning
+- 👨🏽‍💻 I’m looking to collaborate on Data Science, Web Devolopment and Artificial Intelligence projects
 - 📫 How to reach me: [https://lattes.cnpq.br](http://lattes.cnpq.br/8401115300533965) / [https://www.linkedin.com](https://www.linkedin.com/in/rafael-almeida-864876238/)
 - 📨 Contact me: **rafael.almeida1096@gmail.com**
 
